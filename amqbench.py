@@ -246,7 +246,7 @@ class klibrabbitmq(KombuBench):
 
 
 class kamqp(KombuBench):
-    transport = "amqp"
+    transport = "pyamqp"
 
 
 class kmemory(KombuBench):
