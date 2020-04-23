@@ -1,0 +1,12 @@
+[packages]
+amqp = "*"
+anyjson = "*"
+librabbitmq_fork = "==2.0.1.dev7"
+kombu = "*"
+six = "*"
+
+[dev-packages]
+
+
+[requires]
+python_full_version = "3.6.10"
